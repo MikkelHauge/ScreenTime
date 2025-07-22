@@ -1,0 +1,405 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    ": %@" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ":%@"
+          }
+        }
+      }
+    },
+    "%@: %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@:%2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "%lld min" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld min"
+          }
+        }
+      }
+    },
+    "%lld minutes" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld minutter"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj"
+          }
+        }
+      }
+    },
+    "Add Bonus Time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj Bonustid"
+          }
+        }
+      }
+    },
+    "Add Screen Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj Skærmtid"
+          }
+        }
+      }
+    },
+    "Add Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføj Tid"
+          }
+        }
+      }
+    },
+    "Added" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilføjet"
+          }
+        }
+      }
+    },
+    "All" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle"
+          }
+        }
+      }
+    },
+    "Are you sure?" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du sikker?"
+          }
+        }
+      }
+    },
+    "Bonus Screen Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonus Skærmtid"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annullér"
+          }
+        }
+      }
+    },
+    "Cancel Timer" : {
+
+    },
+    "Clear entries older than 30 days" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ryd indhold ældre end 30 dage"
+          }
+        }
+      }
+    },
+    "Clear Log" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ryd indhold"
+          }
+        }
+      }
+    },
+    "Delete All Logs" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slet alle logs"
+          }
+        }
+      }
+    },
+    "Delete Old Logs" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slet gamle logs"
+          }
+        }
+      }
+    },
+    "Earned Screen Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tjent Skærmtid"
+          }
+        }
+      }
+    },
+    "Filter" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        }
+      }
+    },
+    "Free" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratis"
+          }
+        }
+      }
+    },
+    "Free Screen Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratis Skærmtid"
+          }
+        }
+      }
+    },
+    "Log" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log"
+          }
+        }
+      }
+    },
+    "Log Free Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv Gratis Tid"
+          }
+        }
+      }
+    },
+    "minutes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "minutter"
+          }
+        }
+      }
+    },
+    "Options" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indstillinger"
+          }
+        }
+      }
+    },
+    "Recent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nye"
+          }
+        }
+      }
+    },
+    "Reset Bank" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nulstil minutter"
+          }
+        }
+      }
+    },
+    "Reset Banked Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nulstil minutter"
+          }
+        }
+      }
+    },
+    "Screen Time:" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skærmtid:"
+          }
+        }
+      }
+    },
+    "Set Timer" : {
+
+    },
+    "Spend" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brug"
+          }
+        }
+      }
+    },
+    "Spend Screen Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brug skærmtid"
+          }
+        }
+      }
+    },
+    "Spend Time" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brug skærmtid"
+          }
+        }
+      }
+    },
+    "Spent Screen Time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brugt Skærmtid"
+          }
+        }
+      }
+    },
+    "Start Timer" : {
+
+    },
+    "Stop Alarm" : {
+
+    },
+    "This will delete all log entries older than 30 days. Are you sure?" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dette vil slette alt i loggen, der er ældre end 30 dage. Er du sikker?"
+          }
+        }
+      }
+    },
+    "This will delete all log entries. Are you sure?" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dette vil slette alt i loggen. Er du sikker?"
+          }
+        }
+      }
+    },
+    "This will reset your banked screen time. Are you sure?" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dette vil nulstille gemt skærmtid. Er du sikker?"
+          }
+        }
+      }
+    },
+    "Timer" : {
+
+    },
+    "Used" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brugt"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
