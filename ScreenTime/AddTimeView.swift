@@ -39,7 +39,7 @@ struct AddTimeView: View {
             .padding()
             VStack {
                 HStack(spacing: 20) {
-
+ 
                     
                     PressableButton(title: addTimeBtn, color: .blue) {
                         ScreenTimeModel.addTime(minutes: screenTimeToAdd, category: .earned)
